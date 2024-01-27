@@ -8,8 +8,8 @@
 
 ### 💫 About Me
 
-- **🔭 I’m currently working on** a [project using the offical Indian Railway API](https://github.com/AbhinPrasad/IndianRailway.git)<br>
-- **🌱 I’m currently learning** Redux toolkit <br>
+- **🔭 I’m currently working on** an [Admin Dashboard](https://github.com/AbhinPrasad/admin-dashboard)<br>
+- **🌱 I’m currently learning** Next Js <br>
 - **❓ Ask me about anything related to** MERN stack and related technologies  <br>
 - **⚡ Fun fact: I'm a Chemistry⚗️ grad who turned into a coder** 👨‍💻 <br>
 -  Contact me at **theabhin.prasad@gmail.com**
