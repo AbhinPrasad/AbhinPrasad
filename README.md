@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.lambdatest.com/resources/images/news24.gif" align="center" style="width: 100%" />
+<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzcxNDI1OTIsIm5iZiI6MTczNzE0MjI5MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE3VDE5MzEzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiYTEyZDA1MzJmM2UzZjAxYjM0YzIyMzllZTdhM2IzN2Y1OTVjNmIwNGQxMGIxNjI2YjU5Mzc5MmIyNDQzMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7-hkT0mkH2rHaStckHz8jRVhxpMAVIf50yHdBG7pTPA" align="center" style="width: 100%" />
 </div>
 
 # Hi there! 👋
